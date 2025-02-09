@@ -54,5 +54,5 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 🔗 Connect  
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+📧 **Email:** [sommyajain2005@gmail.com](mailto:sommyajain2005@gmail.com)  
 🌍 **GitHub:** [@iamsommyajain](https://github.com/iamsommyajain)  
