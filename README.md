@@ -41,3 +41,17 @@ streamlit run app/main.py
 docker build -t fashion_classifier_app:v1.0 .
 docker run -p 80:80 fashion_classifier_app:v1.0
 ```
+--- 
+
+##🤝 Contributing
+Contributions are welcome! If you find a bug or want to improve the model, feel free to open an issue or submit a pull request.
+
+--- 
+
+##📜 License
+This project is licensed under the MIT License.
+
+---
+##🔗 Connect
+📧 Email: your.email@example.com
+🌍 GitHub: @iamsommyajain
